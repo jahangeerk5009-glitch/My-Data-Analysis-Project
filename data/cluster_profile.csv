@@ -1,0 +1,5 @@
+Cluster,Customer_Count,Avg_Recency,Avg_Frequency,Avg_Monetary,Median_Monetary,Customer_Percentage,Recency_Rank,Frequency_Rank,Monetary_Rank,Value_Score,Suggested_Segment
+0,713,12.17,13.75,8088.02,3722.82,16.44,0.25,1.0,1.0,0.9166666666666666,High Value / Active
+1,1622,181.51,1.32,341.0,296.09,37.39,1.0,0.25,0.25,0.16666666666666666,Needs Engagement Review
+2,837,17.7,2.19,557.32,480.31,19.29,0.5,0.5,0.5,0.5,Lower Relative Activity / Spend
+3,1166,71.64,4.08,1801.78,1345.2,26.88,0.75,0.75,0.75,0.5833333333333334,Needs Engagement Review
